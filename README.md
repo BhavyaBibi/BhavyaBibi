@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
  -->
- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannouBhavyaBibi)
-
+<!--  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannouBhavyaBibi)
+ -->
 -👋 Hi, I’m @BhavyaBibi
 - 🔭 I’m currently working on python developer
 - 🌱 I’m currently learning React.js
