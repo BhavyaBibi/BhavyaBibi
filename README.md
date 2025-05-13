@@ -1,6 +1,6 @@
 # Hi, I'm Bhavya Bibi 👋
 
-I'm a web developer with 2 years of experience and a passion for creating web applications. Currently, I'm expanding my skills in Python, Django, JavaScript, and React.
+I'm a web developer with 4 years of experience and a passion for creating web applications. Currently, I'm expanding my skills in Python, Django, JavaScript, and React.
 
 ## 🔧 Skills
 
